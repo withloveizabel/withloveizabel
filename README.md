@@ -46,18 +46,6 @@ Tenho interesse em entender sistemas de forma estruturada — não apenas execut
 
 ---
 
-## 🚀 Projetos em destaque  
-
-🔧 Em desenvolvimento: projetos práticos focados em redes e segurança  
-
-- 📡 Simulação de rede corporativa com VLANs  
-- 🔐 Implementação de controle de acesso com ACL  
-- 🌐 Estudos de roteamento e segmentação de rede  
-
-👉 Em breve disponíveis nos repositórios  
-
----
-
 ## 💼 Experiência  
 
 **Estágio em Suporte Técnico**  
